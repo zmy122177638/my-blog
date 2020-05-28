@@ -32,7 +32,7 @@ module.exports = {
         "icon": "reco-home"
       },
       {
-        "text": "时间统计",
+        "text": "时轴",
         "link": "/timeline/",
         "icon": "reco-date"
       },
@@ -42,7 +42,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/122177638",
             "icon": "reco-github"
           }
         ]
@@ -52,11 +52,11 @@ module.exports = {
     "blogConfig": {
       "category": {
         "location": 2,
-        "text": "Category"
+        "text": "分类"
       },
       "tag": {
         "location": 3,
-        "text": "Tag"
+        "text": "标签"
       }
     },
     "friendLink": [
