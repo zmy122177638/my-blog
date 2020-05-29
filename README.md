@@ -1,6 +1,6 @@
-# vuepress-theme-reco-demo
+# My Blog
 
-Blog demo for vuepress-theme-reco
+[我的博客地址](https://122177638.github.io/my-blog/)
 
 ```bash
 # 编译
