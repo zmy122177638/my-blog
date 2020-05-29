@@ -94,6 +94,9 @@ module.exports = {
   "markdown": {
     "lineNumbers": true
   },
+  // extraWatchFiles: [
+  //   '**/*.md',
+  // ],
   plugins: [
     [
       "@vuepress-reco/vuepress-plugin-kan-ban-niang",
