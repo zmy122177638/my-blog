@@ -1,7 +1,7 @@
 module.exports = {
   "title": "Anles Blog",
   "description": "Please give me a dream",
-  "dest": "public",
+  base: '/my-blog/',
   locales: {
     '/': {
       lang: 'zh-CN'
