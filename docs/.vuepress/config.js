@@ -37,15 +37,9 @@ module.exports = {
         "icon": "reco-date"
       },
       {
-        "text": "联系",
-        "icon": "reco-message",
-        "items": [
-          {
-            "text": "GitHub",
-            "link": "https://github.com/122177638",
-            "icon": "reco-github"
-          }
-        ]
+        "text": "GitHub",
+        "icon": "reco-github",
+        "link": "https://github.com/122177638"
       }
     ],
     "type": "blog",
