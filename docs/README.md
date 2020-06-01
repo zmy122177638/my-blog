@@ -10,7 +10,7 @@ heroText: ''
 #   background: 'transparent',
 #   borderRadius: '1rem',
 # }
-bgImage: /banner_bg2.jpg
+bgImage: /banner_bg.jpg
 bgImageStyle: {
   height: '450px'
 }

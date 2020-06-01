@@ -92,6 +92,7 @@ module.exports = {
   //   '**/*.md',
   // ],
   plugins: [
+    ['@vuepress/medium-zoom'],
     [
       "@vuepress-reco/vuepress-plugin-kan-ban-niang",
       {
@@ -131,6 +132,6 @@ module.exports = {
           {name: 'New Lipstick',artist: 'The Kissaway Trail',url: 'https://cdn-image.tsanfer.xyz/music/The%20Kissaway%20Trail%20-%20New%20Lipstick.flac',cover: 'https://p2.music.126.net/VjN74c1hoYgPCEZ9DngeQw==/109951163772624643.jpg'},
         ],
       },
-    ],
+    ]
   ]
 }
