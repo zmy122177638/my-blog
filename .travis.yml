@@ -2,9 +2,9 @@ language: node_js
 node_js:
   - lts/*
 install:
-  - npm install # npm install
+  - yarn install # npm install
 script:
-  - npm run build # npm run build
+  - yarn build # npm run build
 deploy:
   provider: pages
   skip_cleanup: true
