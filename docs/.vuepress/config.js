@@ -92,7 +92,9 @@ module.exports = {
   //   '**/*.md',
   // ],
   plugins: [
-    ['@vuepress/medium-zoom'],
+    ['@vuepress/medium-zoom', {
+      selector: '.theme-reco-content :not(a) > img'
+    }],
     [
       "@vuepress-reco/vuepress-plugin-kan-ban-niang",
       {
